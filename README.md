@@ -1,2 +1,2 @@
 # SLAM
-Just a trial program
+Just a bunch of trial programs
